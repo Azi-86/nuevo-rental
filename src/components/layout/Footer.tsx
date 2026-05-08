@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-top">
           <p className="footer-logo">Nuevo Premium Monthly Rentals</p>
-          <p className="footer-tagline">581 Triangle St, Stittsville, Ottawa, ON</p>
+          <p className="footer-tagline">Triangle St, Stittsville, Ottawa, ON</p>
         </div>
         <div className="footer-links">
           <div className="footer-col">
