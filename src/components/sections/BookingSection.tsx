@@ -15,6 +15,7 @@ export default function BookingSection() {
             <div className="rule"><span>Pets</span><span>Not allowed</span></div>
             <div className="rule"><span>Smoking</span><span>Not allowed</span></div>
           </div>
+          <a href="tel:6132932327" className="btn btn--ghost" style={{ marginTop: '1.5rem', display: 'inline-block' }}>Call Us</a>
         </div>
         <BookingForm />
       </div>
