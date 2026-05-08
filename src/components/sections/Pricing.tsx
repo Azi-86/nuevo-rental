@@ -7,7 +7,7 @@ export default function Pricing() {
         <div className="pricing-cards">
           <div className="pricing-card pricing-card--highlight">
             <p className="pricing-stay">Monthly</p>
-            <p className="pricing-rate">$2,500 <span>/ month</span></p>
+            <p className="pricing-rate">$2,550 <span>/ month</span></p>
             <ul className="pricing-details">
               <li>30-night minimum</li>
               <li>Up to 2 guests</li>
