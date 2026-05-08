@@ -9,7 +9,7 @@ A short-term monthly rental website for a garden-level apartment in Stittsville,
 - **Database**: Supabase (PostgreSQL) — bookings and blocked dates
 - **Email**: Resend — notifies the owner on new booking requests
 - **Fonts**: Playfair Display (serif headings) + Inter (body)
-- **Deployment**: Vercel, custom domain `nuevorental.ca`
+- **Deployment**: Vercel, custom domain `nuevo-rentals.ca`
 - **Repo**: https://github.com/Azi-86/nuevo-rental
 
 ## Environment Variables
