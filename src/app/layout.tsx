@@ -9,6 +9,9 @@ export const metadata: Metadata = {
     description: 'Private apartment in Stittsville, Ottawa. Monthly stays from $2,400.',
     images: ['/images/PXL_20260110_174802084.jpg'],
   },
+  verification: {
+    google: 'BTEwwkBsYGsVTjhhDqe7fPE7mG7MI_YdeFMyIhKz_-0',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
