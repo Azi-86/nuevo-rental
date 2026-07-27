@@ -28,7 +28,7 @@ export default function Location() {
               referrerPolicy="no-referrer-when-downgrade"
             />
           </div>
-          <p className="map-note">Exact address shared after booking confirmation.</p>
+          <p className="map-note">Exact address shared once your stay is confirmed.</p>
         </div>
       </div>
     </section>

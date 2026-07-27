@@ -6,7 +6,7 @@ export default function Hero() {
         <p className="hero-label">Private Apartment · Garden Level</p>
         <h1 className="hero-title">Your quiet retreat in the city.</h1>
         <div className="hero-actions">
-          <a href="#book" className="btn btn--accent">Book Now</a>
+          <a href="tel:6132932327" className="btn btn--accent">Call Us</a>
           <a href="#space" className="btn btn--ghost">Explore the Space</a>
         </div>
       </div>

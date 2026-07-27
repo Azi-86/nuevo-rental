@@ -4,9 +4,7 @@ All routes live under `src/app/api/`. Server-side only — never import these di
 
 | Route | Method | Purpose |
 |---|---|---|
-| `bookings/route.ts` | POST | Creates a booking record in Supabase and sends owner email via Resend |
-| `availability/route.ts` | GET | Returns unavailable dates for a given `?year=&month=` |
-| `next-available/route.ts` | GET | Returns the next available check-in date (scans up to 365 days ahead) |
+| `availability/route.ts` | GET | Returns blocked dates for a given `?year=&month=` |
 | `blocked-dates/route.ts` | GET / POST / DELETE | Lists, adds, or removes manually blocked dates |
 | `admin/auth/route.ts` | POST | Validates admin password and sets an `admin_session` cookie |
 | `robots.txt/route.ts` | GET | Serves the robots.txt file |

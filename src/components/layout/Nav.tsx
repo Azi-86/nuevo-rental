@@ -20,7 +20,7 @@ export default function Nav() {
         <li><a href="#amenities" onClick={() => setOpen(false)}>Amenities</a></li>
         <li><a href="#location" onClick={() => setOpen(false)}>Location</a></li>
         <li><a href="#pricing" onClick={() => setOpen(false)}>Pricing</a></li>
-        <li><a href="#book" className="nav-cta" onClick={() => setOpen(false)}>Book Now</a></li>
+        <li><a href="tel:6132932327" className="nav-cta" onClick={() => setOpen(false)}>Call Us</a></li>
       </ul>
       <button className="nav-toggle" aria-label="Toggle menu" onClick={() => setOpen(o => !o)}>&#9776;</button>
     </nav>

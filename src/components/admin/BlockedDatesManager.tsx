@@ -49,7 +49,7 @@ export default function BlockedDatesManager() {
   return (
     <div>
       <p style={{ fontSize: '0.82rem', color: 'var(--muted)', marginBottom: '1rem' }}>
-        Click any date to block or unblock it. Blocked dates (including confirmed bookings) are shown in grey.
+        Click any date to block or unblock it. Blocked dates are shown in grey.
       </p>
       {error && <p style={{ fontSize: '0.82rem', color: '#6a2d2d', marginBottom: '1rem' }}>{error}</p>}
       {loading && <p style={{ fontSize: '0.82rem', color: 'var(--muted)', marginBottom: '0.5rem' }}>Saving…</p>}

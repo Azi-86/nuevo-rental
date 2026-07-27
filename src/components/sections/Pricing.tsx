@@ -13,7 +13,7 @@ export default function Pricing() {
               <li>Up to 2 guests</li>
 
             </ul>
-            <a href="#book" className="btn btn--accent">Book Now</a>
+            <a href="tel:6132932327" className="btn btn--accent">Call Us</a>
           </div>
         </div>
       </div>

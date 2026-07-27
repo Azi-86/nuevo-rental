@@ -19,7 +19,6 @@ export default function Footer() {
           <div className="footer-col">
             <p className="footer-heading">Contact</p>
             <ul>
-              <li><a href="#book">Book a Stay</a></li>
               <li><a href="tel:6132932327">Call Us</a></li>
               <li><a href="mailto:mokhtar.akbari@gmail.com">Email Us</a></li>
             </ul>

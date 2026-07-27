@@ -1,8 +1,5 @@
 # Database Tables (Supabase)
 
-**bookings**
-- `id`, `guest_name`, `guest_email`, `check_in`, `check_out`, `guests`, `message`, `status` (pending/confirmed/cancelled), `created_at`
-
 **blocked_dates**
 - `id`, `date`, `reason`, `created_at`
 
