@@ -187,7 +187,7 @@ ul { list-style: none; }
 .pricing-rate { font-family: var(--serif); font-size: 2.2rem; font-weight: 400; margin-bottom: 1.5rem; line-height: 1; }
 .pricing-rate span { font-family: var(--sans); font-size: 0.85rem; font-weight: 400; color: var(--muted); }
 .pricing-card--highlight .pricing-rate span { color: rgba(255,255,255,0.45); }
-.pricing-availability { font-size: 2.2rem; color: #fff; margin-bottom: 1.5rem; }
+.pricing-availability { font-size: 1rem; color: #fff; margin-bottom: 1.5rem; }
 .pricing-availability strong { font-weight: 600; }
 .pricing-details { margin-bottom: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
 .pricing-details li { font-size: 0.82rem; color: var(--muted); padding-left: 1rem; position: relative; }
