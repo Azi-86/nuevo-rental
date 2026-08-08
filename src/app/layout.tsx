@@ -3,10 +3,10 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Nuevo Premium Monthly Rentals — Stittsville, Ottawa',
-  description: 'A fully self-contained garden-level apartment with private entrance in Stittsville, Ottawa. Available for short-term monthly stays from $2,400/month.',
+  description: 'A fully self-contained garden-level apartment with private entrance in Stittsville, Ottawa. Available for short-term monthly stays from $2,300/month.',
   openGraph: {
     title: 'Nuevo Premium Monthly Rentals',
-    description: 'Private apartment in Stittsville, Ottawa. Monthly stays from $2,400.',
+    description: 'Private apartment in Stittsville, Ottawa. Monthly stays from $2,300.',
     images: ['/images/PXL_20260110_174802084.jpg'],
   },
   verification: {

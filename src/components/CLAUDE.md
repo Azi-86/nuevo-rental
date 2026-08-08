@@ -13,7 +13,7 @@
 | `sections/Space.tsx` | Photo gallery (hero, trio, duo, quad) and four room cards (Bedroom, Living, Kitchen, Bathroom). |
 | `sections/Amenities.tsx` | Dark-background amenities grid. Toiletries note: provided for first week only. |
 | `sections/Location.tsx` | Embedded map and nearby places list. |
-| `sections/Pricing.tsx` | Single monthly pricing card — $2,400/month, 30-night minimum. |
+| `sections/Pricing.tsx` | Single monthly pricing card — $2,300/month, 30-night minimum. |
 | `sections/Reviews.tsx` | Guest review cards. Only real reviews — no fake ones. |
 
 ## Admin
